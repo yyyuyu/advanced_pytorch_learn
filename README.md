@@ -1,3 +1,3 @@
 # advanced_pytorch_learn
 
-Pytorchによる発展ディープラーニングの学習
+Pytorchによる発展ディープラーニングの学習結果
